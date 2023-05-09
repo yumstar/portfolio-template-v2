@@ -2,22 +2,20 @@
     "educations": [
         {
             "id": "edu-1",
-            "school": "Indiana University",
+            "school": "York University",
             "degree": "Master of Science in Computer Science",
-            "duration": "Aug 2019 - May 2021",
+            "duration": "Sep. 2017 - Jun. 2022",
             "content": [
-                "GPA: 4/4",
-                "Courses: Software Engineering, Distributed Systems, Operating Systems, Advanced Algorithms, Experience Design"
+                "GPA: 3.7 / 4"
             ]
         },
         {
             "id": "edu-2",
-            "school": "Manipal University",
-            "degree": "Bachelors in Computer Engineering",
-            "duration": "Aug 2015 - Jul 2019",
+            "school": "Thistletown Collegiate Institute",
+            "degree": "High School Diploma",
+            "duration": "Sep 2013 - Jun. 2017",
             "content": [
-                "GPA: 8/10",
-                "Courses: Data Structures, OOP, Algorithms, Software Engineering, Computer Networks, Artificial Intelligence"
+                "Graduating Average: 92.66 / 100"
             ]
         }
     ],
@@ -96,17 +94,6 @@
                 "Illustrator"
             ]
         }
-    ],
-    "blog": [
-        {
-            "id": "blog-1",
-            "title": "A beginner's guide to github",
-            "link": "https://hrishikeshpaul12.medium.com/a-beginners-guide-to-github-a811e662a777"
-        },
-        {
-            "id": "blog-2",
-            "title": "User Experience Design – A little more than just design",
-            "link": "https://hrishikeshpaul12.medium.com/user-experience-design-a-little-more-than-just-design-afdb941aeb5"
-        }
     ]
+
 }

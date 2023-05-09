@@ -50,9 +50,6 @@ export const Navbar: FC = () => {
                             >
                                 About
                             </Button>
-                            <Button variant="link" onClick={onResumeOpen} data-aos="fade" data-aos-delay="400">
-                                Resume
-                            </Button>
                         </HStack>
                         <ColorModeButton />
                     </Flex>

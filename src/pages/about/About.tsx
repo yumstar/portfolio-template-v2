@@ -3,7 +3,7 @@ import { FC } from "react";
 import { Box, Flex, Heading, Text, Image, Button, IconButton } from "@chakra-ui/react";
 
 import { configs, Content, MarkdownFile, useContent } from "shared/content/Content";
-import { Blog } from "pages/about/blog/Blog";
+// import { Blog } from "pages/about/blog/Blog";
 import { Education } from "pages/about/education/Education";
 import { Experience } from "pages/about/experience/Experience";
 import { Skills } from "pages/about/skills/Skills";
@@ -57,7 +57,7 @@ export const About: FC = () => {
                 mt="16"
                 justifyContent="space-between"
             >
-                <Box flex="0.6" flexShrink="0" overflow="hidden">
+                <Box flex="0.6" overflow="hidden">
                     <Education />
                 </Box>
                 <Box flex="0.6" overflow="hidden">
@@ -68,7 +68,7 @@ export const About: FC = () => {
                 <Skills />
             </Box>
             <Box pt="16">
-                <Blog />
+                {/* <Blog /> */}
             </Box>
         </Box>
     );

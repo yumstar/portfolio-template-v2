@@ -19,14 +19,14 @@ const headerStyles = {
 export const Footer: FC = () => {
     return (
         <>
-            <PageHeader label="SAY HI" />
+            <PageHeader label="Let's Talk! 👋" />
             <Flex pb="2" gap="3" overflow="hidden" alignItems="center">
                 <Heading {...headerStyles} onClick={onMailTo} fontSize="2xl">
                     {configs.common.email}
                 </Heading>
             </Flex>
             <Text>
-                If you want to know more about my experiences and journey, or just talk in general, get in touch! ✌️
+                If you want to know more about my experience or discuss opportunities, feel free to reach out, even just for a quick chat!
             </Text>
             <Box pt="16">
                 <Socials delay={100} exclude={["mail"]} />
@@ -39,7 +39,7 @@ export const Footer: FC = () => {
                 justifyContent={{ base: "center", md: "space-between" }}
                 direction={{ base: "column", md: "row" }}
             >
-                <Text>This site is hand-crafted, with care by me.</Text>
+                <Text>Portfolio Template by <a href="https://github.com/hrishikeshpaul/portfolio-template-v2"> Hrishikesh Paul</a></Text>
                 <Text>&copy; {new Date().getFullYear()} All rights reserved.</Text>
             </Flex>
         </>

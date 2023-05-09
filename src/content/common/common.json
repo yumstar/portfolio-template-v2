@@ -1,30 +1,30 @@
 {
-    "name": "Hrishikesh Paul",
+    "name": "Abu Saeed",
     "logoType": {
-        "mobile": "HP",
-        "desktop": "Hrishikesh Paul"
+        "mobile": "Abu Saeed",
+        "desktop": "Abu Saeed"
     },
-    "mainPicture": "/assets/HP.webp",
-    "mainPictureJPG": "/assets/HP.jpeg",
-    "pronunciation": "/ri-shi-kaysh/",
-    "audioFile": "/assets/name-pro.mp3",
+    "mainPicture": "/assets/profile.jpg",
+    "mainPictureJPG": "/assets/profile.jpg",
+    "pronunciation": "/Ub-boo/",
+    "audioFile": "/assets/",
     "cssVarPrefix": "hp",
-    "email": "hrishikeshpaul12@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/hrishikeshpaul/",
-    "github": "https://github.com/hrishikeshpaul",
-    "resume": "https://docs.google.com/viewer?url=https://docs.google.com/document/d/1s3G7PiPHlK3Ett_W-WUU01GQnsggiLrWZB3IiMAgBEk/export?format=pdf",
+    "email": "abuhsaeed@outlook.com",
+    "linkedin": "https://www.linkedin.com/in/abuhsaeed/",
+    "github": "https://github.com/yumstar",
+    "resume": "",
     "socials": [
         {
             "type": "linkedin",
-            "link": "https://www.linkedin.com/in/hrishikeshpaul/"
+            "link": "https://www.linkedin.com/in/abuhsaeed/"
         },
         {
             "type": "github",
-            "link": "https://github.com/hrishikeshpaul"
+            "link": "https://github.com/yumstar"
         },
         {
             "type": "mail",
-            "link": "mailto:hrishikeshpaul12@gmail.com"
+            "link": "mailto:abuhsaeed@outlook.com"
         }
     ]
 }
