@@ -1,11 +1,11 @@
 {
     "short_name": "HP",
-    "name": "Portfolio • Hrishikesh Paul",
+    "name": "Portfolio • Abu Saeed",
     "icons": [
         {
             "src": "logo.png",
             "type": "image/png",
-            "sizes": "512x512"
+            "sizes": "64x64"
         }
     ],
     "start_url": ".",

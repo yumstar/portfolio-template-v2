@@ -11,8 +11,8 @@ export enum ImagePosition {
 interface Props {
     id: string;
     title: string;
-    year: string;
-    location: string;
+    // year: string;
+    // location: string;
     demo?: string;
     github?: string;
     tags: string[];
@@ -48,8 +48,8 @@ export const FeaturedProjectCard: FC<Props> = ({
     readMore,
     image,
     imagePosition,
-    location,
-    year,
+    // location,
+    // year,
     jpg,
 }) => {
     return (
@@ -80,7 +80,7 @@ export const FeaturedProjectCard: FC<Props> = ({
                         data-aos-delay="100"
                         data-aos-offset="200"
                     >
-                        {year} • {location}
+                        {/* {year} • {location} */}
                     </Text>
 
                     <Box

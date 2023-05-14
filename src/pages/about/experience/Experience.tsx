@@ -7,7 +7,7 @@ import { Expandable } from "pages/about/common/expandable/Expandable";
 import { ArticleTitle } from "pages/about/common/title/Title";
 
 export const Experience: FC = () => {
-    const [experiencesExpanded, setExperiencesExpanded] = useState<number[]>([]);
+    const [experiencesExpanded, setExperiencesExpanded] = useState<number[]>([0]);
 
     return (
         <>

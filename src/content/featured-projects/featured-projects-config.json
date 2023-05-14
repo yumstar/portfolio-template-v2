@@ -1,64 +1,32 @@
 [
     {
-        "id": "featured-project-trackcta",
-        "title": "trackCTA",
-        "year": "Dec 2021 - Present",
-        "location": "Chicago",
-        "demo": "https://www.trackcta.com/",
-        "github": "https://github.com/hrishikeshpaul/trackcta",
-        "tags": ["React", "TypeScript", "NodeJS", "Web Sockets", "i18n", "Google Maps", "GCP", "CI/CD", "Shell"],
-        "description": "An internationalized web app to track and predict Chicago Transit Authority (CTA) busses and trains.",
-        "image": "/assets/featured-projects/trackcta.webp",
-        "jpg": "/assets/featured-projects/trackcta.jpeg"
+        "id": "featured-project-learn-flagmojis",
+        "title": "Learn Flagmojis 🏁",
+        "demo": "https://learn-flagmojis.vercel.app/",
+        "github": "https://github.com/yumstar/Learn-Flagmojis",
+        "tags": ["Next.js", "React", "Node.js", "JavaScript", "MongoDB", "Redux", "Graph QL", "Apollo", "Theme UI"],
+        "description": "An educational application for learning and being quizzed about countries by introducing their flag emoji or 'Flagmoji'.",
+        "image": "/assets/featured-projects/flagmojis-demo.gif",
+        "jpg": "/assets/featured-projects/flagmojis-demo.gif"
     },
     {
-        "id": "featured-project-asctb-reporter",
-        "title": "ASCT+B Reporter",
-        "year": "Jun 2020 - Jun 2021",
-        "location": "Indiana University",
-        "demo": "https://hubmapconsortium.github.io/ccf-asct-reporter/",
-        "github": "https://github.com/hrishikeshpaul/ccf-asct-reporter",
-        "tags": ["Angular 11", "TypeScript", "NodeJS", "NGXS", "Vega", "TravisCI", "Open Source"],
-        "description": "A collaboration with the NIH to build visualization tool to envision large biomedical datasets for researchers, doctors and experts.",
-        "readMore": "https://hrishikeshpaul.medium.com/asct-b-reporter-a-visualization-tool-d4dd29de97d8",
-        "image": "/assets/featured-projects/asctb.webp",
-        "jpg": "/assets/featured-projects/asctb.jpeg"
+        "id": "featured-project-In-voi-tations",
+        "title": "In-voi-tations!",
+        "github": "https://github.com/yumstar/In-Voi-tations",
+        "tags": ["React", "Bootstrap", "Node.js", "Express", "JavaScript", "MongoDB", "Twilio SendGrid API", "Twilio SMS API", "Abstract API"],
+        "description": "A web app for planning events and sending invitations to your friends by email or SMS text messaging!",
+        "image": "/assets/featured-projects/invoitations-demo.gif",
+        "jpg": "/assets/featured-projects/invoitations-demo.gif"
     },
     {
-        "id": "featured-project-scrapbook",
-        "title": "Scrapbook",
-        "year": "Jan 2021 - May 2021",
-        "location": "Indiana University",
-
+        "id": "featured-project-trident-pest-control",
+        "title": "Trident Pest Control",
         "tags": [
-            "Angular 11",
-            "Flask",
-            "Node",
-            "Python",
-            "TypeScript",
-            "Docker",
-            "Docker Hub",
-            "Jenkins",
-            "Kubernetes",
-            "GKE",
-            "GCP"
+            "React", "Node.js", "Express", "JavaScript"
         ],
-        "demo": "http://34.69.102.109/",
-        "github": "https://github.com/hrishikeshpaul/scrapbook",
-        "description": "A micro-service architecture based web application that enables users to upload, share and manage images.",
-        "readMore": "https://hrishikeshpaul.medium.com/scrapbook-a-micro-service-based-photo-sharing-application-3a8760681af6",
-        "image": "/assets/featured-projects/scrapbook.webp",
-        "jpg": "/assets/featured-projects/scrapbook.jpeg"
-    },
-    {
-        "id": "featured-project-measure-ux",
-        "location": "Indiana University",
-        "title": "Measuring User Experience",
-        "year": "Sep 2020 - Dec 2020",
-        "tags": ["UX Research", "User Journey", "Experience Mapping", "Surveys", "Interviews", "Adobe XD"],
-        "description": "A project to quantify user experiences demonstrated by measuring the user experience of uploading a photo on Instagram.",
-        "readMore": "https://hrishikeshpaul.medium.com/measuring-user-experience-an-instagram-case-study-89bfb78f2c6b",
-        "image": "/assets/featured-projects/measure-ux.webp",
-        "jpg": "/assets/featured-projects/measure-ux.jpeg"
+        "demo": "http://tridentpest.ca",
+        "description": "A responsive, multipage website with domain-specific requirements for a satisfied client.",
+        "image": "/assets/featured-projects/trident-pest-2.png",
+        "jpg": "/assets/featured-projects/trident-pest-2.png"
     }
 ]

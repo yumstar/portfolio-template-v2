@@ -1,10 +1,2 @@
-Welcome 👋 I'm a _Frontend Software Engineer_ at [Reputation](https://reputation.com/) based out of Chicago, Illinois. I recently graduated from Indiana University with a Masters degree in Computer Science and I'm passionate about **Software Development**, **UX Design** and **Artificial Intelligence**.
 
-I'm currently working with,
-
--   React (TS)
--   NodeJS
--   Flask (Python)
--   HTML/SCSS
--   WebSockets
--   GraphQL
+Hi! 👋 I'm a fresh computer science graduate of York University. I've refined my soft and technical skills at the **Ministry of Transportation** in Ontario doing database and full-stack work. As a person, I'm just curious in just about everything and always pursuing something for something new to learn. Currently, I'm drawn to  *software development* and *data science*, but I'm always reading up about topics from fields like Linguistics to Law to Astronomy. I'm always open to connect with new people, so please do reach out for a chat!

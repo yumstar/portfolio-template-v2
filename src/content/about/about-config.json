@@ -3,7 +3,7 @@
         {
             "id": "edu-1",
             "school": "York University",
-            "degree": "Master of Science in Computer Science",
+            "degree": "Bachelors of Science in Computer Science",
             "duration": "Sep. 2017 - Jun. 2022",
             "content": [
                 "GPA: 3.7 / 4"
@@ -13,86 +13,64 @@
             "id": "edu-2",
             "school": "Thistletown Collegiate Institute",
             "degree": "High School Diploma",
-            "duration": "Sep 2013 - Jun. 2017",
+            "duration": "Sep. 2013 - Jun. 2017",
             "content": [
-                "Graduating Average: 92.66 / 100"
+                "Average: 92.66 / 100"
             ]
         }
     ],
     "experiences": [
         {
             "id": "exp-1",
-            "company": "Reputation",
-            "position": "Software Engineer (Frontend)",
-            "duration": "Jun 2020 - Jun 2021",
+            "company": "Ontario Ministry of Transportation",
+            "position": "Junior Software Engineer",
+            "duration": "May 2021 - Dec. 2021",
             "description": [
-                "Revamping the current report generation framework using React, that aggregates data from 30 modules to support an interactive cartesian system.​",
-                "Integrated user activity data from BigQuery into a custom tailored dashboard available to 10000+ clients.",
-                "Spearheaded the work on multiple reports for 5 priority clients to provide additional functionalities."
-            ]
-        },
-        {
-            "id": "exp-2",
-            "company": "CNS (NIH), Indiana University",
-            "position": "Software Engineer",
-            "duration": "Jun 2020 - Jun 2021",
-            "description": [
-                "Developed state of the art visualization tools for researchers and doctors to envision large biological datasets using ​Angular 11​, Node & Vega.​",
-                "Devised an algorithm to compute statistics that highlight anomalies in the data and displayed them on an intuitive interface.",
-                "Created detailed UX flows, experience maps, wire-frames and conducted interviews across various biological consortia to enhance user experience."
-            ]
-        },
-        {
-            "id": "exp-3",
-            "company": "Skylark Drones",
-            "position": "Software Engineer Intern",
-            "duration": "Jan 2019 - Jun 2019",
-            "description": [
-                "Developed a web app for mission planning, control and execution using Vue & Flask, thereby improving onside project performance by 22%.​",
-                "Designed an icon set for various functionalities using ​Illustrator​, which improved usability by 20%."
+                "Developed data dashboards for card production and internal tooling used by multiple team data analysts for using Spring & Oracle​",
+                "Transformed Oracle SQL data for visualizations & tables by creating multiple Java & Spring query processors",
+                "Designed front-end and data visualization components that allowed multiple data sets utilizing Angular & D3.js",
+                "Queried SQL data warehouses to redesign 13 ETL reports, improving ease-of-use & loading times by 200%",
+                "Wrote a comprehensive 80+ page technical documentation to train colleagues of any skillset on the ETL reports",
+                "Planned and coordinated student events to foster organization engagement with consistent attendance of 15% of students out of ~120"
             ]
         }
     ],
     "skills": [
         {
-            "title": "Programming",
+            "title": "Programming Languages",
             "tools": [
                 "TypeScript",
                 "JavaScript",
                 "Python",
                 "C/C++",
-                "Java",
-                "NoSQL",
-                "SQL",
-                "Shell",
-                "React Native",
-                "Vega (D3.js)"
+                "Java"
             ]
         },
         {
-            "title": "Web",
-            "tools": ["React", "Angular 11", "Vue", "NodeJS", "Flask", "Redux", "NGXS", "HTML/CSS", "OAuth", "i18n"]
+            "title": "Data Science",
+            "tools": [
+                "Python",
+                "NetworkX",
+                "Matplotlib",
+                "D3.js"
+            ]
+        },
+        {
+            "title": "Back-end",
+            "tools": ["Spring Boot", "Express", "Node.js", "REST APIs", "Authentication"]
+        },
+        {
+            "title": "Front-end",
+            "tools": ["React", "Angular", "Vue", "Node.js", "Redux", "Django", "GraphQL", "HTML/CSS","External APIs"]
         },
         {
             "title": "Databases",
-            "tools": ["MongoDB", "Redis", "MySQL", "Firebase"]
+            "tools": ["Oracle", "DB2", "PostgreSQL", "MongoDB"]
         },
 
         {
             "title": "OS & Tools",
-            "tools": ["MacOS", "Linux", "Git", "Agile (Scrum)", "MVC", "Jenkins", "Heroku", "Docker", "Kubernetes"]
-        },
-        {
-            "title": "Design & Research",
-            "tools": [
-                "Surveys",
-                "Interviews",
-                "User Research",
-                "Design Strategy",
-                "Experience Mapping",
-                "Adobe XD",
-                "Illustrator"
-            ]
+            "tools": ["Linux", "Windows", "Git", "Docker"]
         }
     ]
 
