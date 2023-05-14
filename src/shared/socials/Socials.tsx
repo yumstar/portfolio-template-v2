@@ -3,7 +3,7 @@ import { FC } from "react";
 import { Button, HStack, IconButton, Tooltip } from "@chakra-ui/react";
 
 import { configs } from "shared/content/Content";
-import { onResumeOpen, open } from "utils/Functions";
+import { open } from "utils/Functions";
 import { FacebookIcon, GitHubIcon, InstagramIcon, LinkedInIcon, MailIcon, YoutubeIcon } from "utils/Icons";
 
 const LinksToIconMapper: Record<string, JSX.Element> = {

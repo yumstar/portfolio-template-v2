@@ -21,7 +21,7 @@ import { ColorModeButton } from "shared/color-mode-button/ColorModeButton";
 import { AboutPageId, WorkPageId } from "utils/useScroll";
 import { MenuIcon } from "utils/Icons";
 import { Socials } from "shared/socials/Socials";
-import { onResumeOpen } from "utils/Functions";
+// import { onResumeOpen } from "utils/Functions";
 
 interface Props extends StyleProps {
     onSectionClick: (section: string) => void;
