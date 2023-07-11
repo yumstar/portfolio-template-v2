@@ -19,8 +19,8 @@
         "demo": "https://www.seashellapp.xyz/",
         "github": "https://github.com/yumstar/Sea-shell",
         "description": "An app for when you need a calm like the ocean. 🐚",
-        "image": "/assets/featured-projects/seashell-3.png",
-        "jpg": "/assets/featured-projects/seashell-3.png"
+        "image": "/assets/featured-projects/seashell.png",
+        "jpg": "/assets/featured-projects/seashell.png"
     },
     {
         "id": "featured-project-learn-flagmojis",
