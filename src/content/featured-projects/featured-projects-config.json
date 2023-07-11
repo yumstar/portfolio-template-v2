@@ -1,5 +1,28 @@
 [
     {
+        "id": "featured-project-trident-pest-control",
+        "title": "Trident Pest Control",
+        "tags": [
+            "React", "Node.js", "Express", "JavaScript"
+        ],
+        "demo": "http://tridentpest.ca",
+        "description": "A responsive, multipage website with domain-specific requirements for a satisfied client.",
+        "image": "/assets/featured-projects/trident-pest.png",
+        "jpg": "/assets/featured-projects/trident-pest.png"
+    },
+    {
+        "id": "featured-project-seashell-app",
+        "title": "Seashell",
+        "tags": [
+            "Django", "AWS Lambda", "Vue", "Tailwind"
+        ],
+        "demo": "https://www.seashellapp.xyz/",
+        "github": "https://github.com/yumstar/Sea-shell",
+        "description": "An app for when you need a calm like the ocean. 🐚",
+        "image": "/assets/featured-projects/seashell-3.png",
+        "jpg": "/assets/featured-projects/seashell-3.png"
+    },
+    {
         "id": "featured-project-learn-flagmojis",
         "title": "Learn Flagmojis 🏁",
         "demo": "https://learn-flagmojis.vercel.app/",
@@ -17,16 +40,6 @@
         "description": "A web app for planning events and sending invitations to your friends by email or SMS text messaging!",
         "image": "/assets/featured-projects/invoitations-demo.gif",
         "jpg": "/assets/featured-projects/invoitations-demo.gif"
-    },
-    {
-        "id": "featured-project-trident-pest-control",
-        "title": "Trident Pest Control",
-        "tags": [
-            "React", "Node.js", "Express", "JavaScript"
-        ],
-        "demo": "http://tridentpest.ca",
-        "description": "A responsive, multipage website with domain-specific requirements for a satisfied client.",
-        "image": "/assets/featured-projects/trident-pest.png",
-        "jpg": "/assets/featured-projects/trident-pest.png"
     }
+
 ]
