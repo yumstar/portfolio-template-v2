@@ -4,7 +4,7 @@ import { Box, Container, Center, Spinner } from "@chakra-ui/react";
 import AOS from "aos";
 
 import { NavbarHeight } from "theme";
-import { AboutPageId, WorkPageId } from "utils/useScroll";
+import { AboutPageId, WorkPageId, OtherProjectsId } from "utils/useScroll";
 
 import "./App.scss";
 import "aos/dist/aos.css";
@@ -48,14 +48,15 @@ export const App: FC = () => {
                     <Box id={WorkPageId}>
                         <PageHeader label="Featured Projects" />
                         <FeaturedProjects />
-
-                        <PageHeader id="page-other-projects" label="Other Projects" />
-                        <OtherProjects />
                     </Box>
 
                     <Box id={AboutPageId}>
                         <PageHeader label="About Me" />
                         <About />
+                    </Box>
+                    <Box id={OtherProjectsId}>
+                        <PageHeader id="page-other-projects" label="Other Projects" />
+                        <OtherProjects />
                     </Box>
                 </Box>
                 <Footer />

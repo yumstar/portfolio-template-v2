@@ -22,6 +22,15 @@
     "experiences": [
         {
             "id": "exp-1",
+            "company": "Evertz Microsystems Ltd.",
+            "position": "Software Engineer",
+            "duration": "Sep. 2023 - Present",
+            "description": [
+                "Building upon excellence in the broadcasting SaaS, evertz.io."
+            ]
+        },
+        {
+            "id": "exp-2",
             "company": "Ontario Ministry of Transportation",
             "position": "Software Engineer Intern (Junior Technical Analyst)",
             "duration": "May 2021 - Dec. 2021",
@@ -39,33 +48,31 @@
         {
             "title": "Programming Languages",
             "tools": [
+                "Python",
                 "TypeScript",
                 "JavaScript",
-                "Python",
-                "C/C++",
-                "Java"
+                "Java",
+                "C/C++"
+
             ]
         },
         {
-            "title": "Data Science",
+            "title": "Cloud (AWS)",
             "tools": [
-                "Python",
-                "NetworkX",
-                "Matplotlib",
-                "D3.js"
+                "API Gateway",
+                "Lambda",
+                "DynamoDB",
+                "EC2",
+                "S3"
             ]
         },
         {
             "title": "Back-end",
-            "tools": ["Spring Boot", "Express", "Node.js", "REST APIs", "Authentication"]
-        },
-        {
-            "title": "Front-end",
-            "tools": ["React", "Angular", "Vue", "Node.js", "Redux", "Django", "GraphQL", "HTML/CSS","External APIs"]
+            "tools": ["AWS Lambda", "Spring Boot", "Express", "REST APIs", "Authentication"]
         },
         {
             "title": "Databases",
-            "tools": ["Oracle", "DB2", "PostgreSQL", "MongoDB"]
+            "tools": ["DynamoDB", "Oracle", "DB2", "PostgreSQL", "MongoDB"]
         },
 
         {
